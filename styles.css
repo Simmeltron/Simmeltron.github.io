@@ -2,6 +2,10 @@
   * Primary Color: #a10022;
   * Secondary Color: #0b611c;
 */
+body {
+  background: chartreuse;
+}
+
 
 h1 {
   color: #a10022;
