@@ -1,0 +1,24 @@
+/* Style Guide
+  * Primary Color: #a10022;
+  * Secondary Color: #0b611c;
+*/
+
+h1 {
+  color: #a10022;
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 48px;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+p {
+  color: #0b611c;
+}
+
+/* Typeograpy
+  *Primary Font: font-family: 'Bowlby One SC', cursive;
+*/
+
+img {
+  width: 100%;
+}
