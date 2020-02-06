@@ -1,6 +1,9 @@
 # Simmeltron.github.io
 danasimmelink.online
 
+## Bio
+I am a sentient being.
+
 ## Style Tile
 ### Colors
 * Primary Color: #036635;
