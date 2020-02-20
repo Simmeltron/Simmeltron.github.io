@@ -2,6 +2,9 @@
   * Primary Color: #a10022;
   * Secondary Color: #0b611c;
 */
+
+/* CSS Variables */
+
 body {
   background: chartreuse;
 }
