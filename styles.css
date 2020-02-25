@@ -6,12 +6,12 @@
 /* CSS Variables */
 
 body {
-  background: chartreuse;
+  background: #a39274;
 }
 
 
 h1 {
-  color: #a10022;
+  color: #252523;
   font-family: 'Bowlby One SC', cursive;
   font-size: 48px;
   letter-spacing: 5px;
@@ -19,7 +19,7 @@ h1 {
 }
 
 p {
-  color: #0b611c;
+  color: #252523;
 }
 
 /* Typeograpy
