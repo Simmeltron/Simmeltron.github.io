@@ -1,8 +1,3 @@
-/* Style Guide
-  * Primary Color: #a10022;
-  * Secondary Color: #0b611c;
-*/
-
 /* CSS Variables */
 
 body {
@@ -12,7 +7,7 @@ body {
 
 h1 {
   color: #252523;
-  font-family: 'Bowlby One SC', cursive;
+  font-family: 'Bowlby One SC';
   font-size: 48px;
   letter-spacing: 5px;
   text-align: center;
@@ -20,6 +15,7 @@ h1 {
 
 p {
   color: #252523;
+  font-family: 'Sigmar One';
 }
 
 /* Typeograpy
@@ -42,11 +38,6 @@ main img {
 */
 @media only screen and (min-width: 0) { 
     
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Mobile Size";
-  }
   
 }
 
@@ -55,11 +46,7 @@ main img {
 */
 @media only screen and (min-width: 26em)  {
     
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Tablet Size";
-  }
+
 
 }
 
@@ -68,11 +55,7 @@ main img {
 */
 @media screen and (min-width: 72em)  { 
   
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Desktop Size";
-  }
+
 
 }
 
@@ -81,10 +64,5 @@ main img {
 */
 @media screen and (min-width: 90em) { 
   
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Wide Desktop Size";
-  }
 
 }
