@@ -1,8 +1,3 @@
-/* Style Guide
-  * Primary Color: #a10022;
-  * Secondary Color: #0b611c;
-*/
-
 /* CSS Variables */
 
 body {
@@ -12,20 +7,62 @@ body {
 
 h1 {
   color: #252523;
-  font-family: 'Bowlby One SC', cursive;
+  font-family: 'Bowlby One SC';
   font-size: 48px;
   letter-spacing: 5px;
   text-align: center;
 }
 
-p {
-  color: #252523;
-}
-
 /* Typeograpy
-  *Primary Font: font-family: 'Bowlby One SC', cursive;
+  *Primary Font: font-family: 'Sigmar One';
 */
 
-img {
-  width: 100%;
+p {
+  color: #252523;
+  font-family: 'Sigmar One';
+}
+
+main { 
+  margin: 0 auto;
+  width: 90%;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+main img {
+  grid-column: 1 / 1;
+}
+
+/* Mobile 
+  0 to 26em (416 pixels)
+*/
+@media only screen and (min-width: 0) { 
+    
+  
+}
+
+/* Tablet 
+  26em (416 pixels) to 72em (1,152 pixels)
+*/
+@media only screen and (min-width: 26em)  {
+    
+
+
+}
+
+/* Desktop 
+   72em (1,152 pixels) to 90em (1440 pixels)
+*/
+@media screen and (min-width: 72em)  { 
+  
+
+
+}
+
+/* Wide Desktop: 
+  Greater than 90em (1440px)
+*/
+@media screen and (min-width: 90em) { 
+  
+
 }
