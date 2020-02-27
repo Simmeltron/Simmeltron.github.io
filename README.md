@@ -24,7 +24,7 @@ My name is Dana Simmelink. I have lived in Washington state my entire life. I we
 
 # Fonts
 
-* [Modak](https://fonts.google.com/specimen/Modak?selection.family=Modak)
+* [Bowlby One SC](https://fonts.google.com/specimen/Bowlby+One+SC )
 * [Sigmar One](https://fonts.google.com/selection?selection.family=Sigmar+One)
 
 # Imagery
