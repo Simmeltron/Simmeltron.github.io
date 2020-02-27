@@ -13,14 +13,14 @@ h1 {
   text-align: center;
 }
 
+/* Typeograpy
+  *Primary Font: font-family: 'Sigmar One';
+*/
+
 p {
   color: #252523;
   font-family: 'Sigmar One';
 }
-
-/* Typeograpy
-  *Primary Font: font-family: 'Bowlby One SC', cursive;
-*/
 
 main { 
   margin: 0 auto;
